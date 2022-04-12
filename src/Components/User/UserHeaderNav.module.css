@@ -6,14 +6,14 @@
 
 .nav a, .nav button {
   background: #eee;
-  border-radius: .2rem;
+  border-radius: 0.2rem;
   height: 40px;
   width: 40px;
   display: flex;
   align-items: center;
   justify-content: center;
   border: 1px solid transparent;
-  transition: .1s;
+  transition: 0.1s;
   cursor: pointer;
 }
 
@@ -39,7 +39,7 @@
 
 .mobileButton { 
   background: #eee;
-  border-radius: .2rem;
+  border-radius: 0.2rem;
   height: 40px;
   width: 40px;
   padding: 0px;
@@ -47,7 +47,7 @@
   align-items: center;
   justify-content: center;
   border: 1px solid transparent;
-  transition: .1s;
+  transition: 0.1s;
   cursor: pointer;
 }
 
@@ -59,7 +59,7 @@
   border-radius: 2px;
   background: currentColor;
   box-shadow: 0 6px currentColor, 0 -6px currentColor;
-  transition: .2s;
+  transition: 0.2s;
 }
 
 .mobileButton:focus, 
@@ -84,17 +84,18 @@
   position: absolute;
   top: 70px;
   right: 0px;
+  height: 180px;
   padding: 0 1rem;
   background: white;
-  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
-  border-radius: .2rem;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+  border-radius: 0.2rem;
   transform: translateX(-10px);
   opacity: 0;
   pointer-events: none;
 }
 
 .navMobileActive {
-  transition: .3s;
+  transition: 0.3s;
   transform: initial;
   opacity: 1;
   pointer-events: initial;
