@@ -1,4 +1,4 @@
-#Esse projeto foi desenvolvid  durante o curso compleo de React.
+#Esse projeto foi desenvolvido  durante o curso compleo de React da Origamid.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
