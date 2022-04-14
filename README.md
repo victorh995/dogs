@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+#Esse projeto foi desenvolvid  durante o curso compleo de React.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
